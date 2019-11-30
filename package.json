@@ -1,0 +1,15 @@
+{
+  "name": "discord_js",
+  "version": "1.0.0",
+  "description": "An Example Code of a Discord Bot in Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koreanpanda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security"
+  }
+}
